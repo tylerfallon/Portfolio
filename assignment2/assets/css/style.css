@@ -1,27 +1,21 @@
 .footertext { 
 	margin-top: 10px;
 }
-
 .fullfooter {
 	margin-top: 20%;
 }
-
 .form {
 	margin-top: 20px;
 }
-
 #theport {
 	margin-top: 20px;
 }
-
 #abouttext {
 	margin-left: 25px;
 }
-
 #picture {
 	padding-right: 20px;
 }
-
 @media screen and (max-width: 980px) {
 	#abouttext {
 		margin-top: 200px;
